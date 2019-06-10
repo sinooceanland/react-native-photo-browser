@@ -28,6 +28,7 @@
     "react-native-progress": "^3.0.0",
     "react-native-transformable-image": "0.0.18",
     "@ldn0x7dc/react-native-view-pager": "https://github.com/ksti/react-native-view-pager",
-    "react-native-gesture-responder": "0.1.1"
+    "react-native-gesture-responder": "0.1.1",
+    "react-native-yuanxincamera": "git+http://alm-tfs.sinooceangroup.com:8080/tfs/YXPlatform/_git/react-native-yuanxincamera"
   }
 }
